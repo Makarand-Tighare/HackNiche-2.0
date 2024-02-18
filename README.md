@@ -61,3 +61,16 @@ Feel free to contribute to the project by forking it and creating pull requests!
 7. Run the backend using `npm run dev`.
 8. Ensure MongoDB is installed and running.
 9. Use Postman or similar tools to interact with the backend API.
+
+# Website Sample Images
+![homehack](https://github.com/Makarand-sdw/HackNiche-2.0/assets/109028603/34a38c6d-d2fb-4217-a57a-de795a42b15a)
+![homehack](https://github.com/Makarand-sdw/HackNiche-2.0/assets/109028603/b40826f8-b9c9-4202-adc0-678ea4eedaa4)
+
+
+![exphack](https://github.com/Makarand-sdw/HackNiche-2.0/assets/109028603/12e432bb-0e19-497b-a71e-26d96deae650)
+![exphack](https://github.com/Makarand-sdw/HackNiche-2.0/assets/109028603/f0739684-3ce6-4dc6-866f-576a4e372c14)
+![csvhack](https://github.com/Makarand-sdw/HackNiche-2.0/assets/109028603/bfe06a58-5813-4f01-bff3-98a042a86c81)
+
+
+
+
