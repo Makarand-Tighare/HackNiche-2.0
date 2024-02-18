@@ -24,33 +24,33 @@ CODASTRA utilizes the OpenAI API to generate code from text input, primarily foc
   - SalesforceBot.ipynb   # Initial Python Models
   - Team_Sigma.zip        # Complete Final Code Generation
   - Codastra-EduWeb.zip   # Codeastra Education Website
-Setup Instructions
-# Clone Repository:  Clone the repository to your local machine.
-# Switch Branch: Depending on your requirements, switch to either the main or master branch.
-# Setup MERN Stack: If using the main branch, set up the MERN stack by following instructions in the respective frontend and backend directories.
-# Python Models: Explore the initial Python models provided in the SalesforceBot.ipynb notebook.
-# Final Code Generation: Access the complete final code generation zip file named "Team Sigma" in the master branch.
-# Education Website: Find the Codeastra Education website in the master branch as Codastra-EduWeb.zip.
+# Setup Instructions
+- Clone Repository:  Clone the repository to your local machine.
+- Switch Branch: Depending on your requirements, switch to either the main or master branch.
+- Setup MERN Stack: If using the main branch, set up the MERN stack by following instructions in the respective frontend and backend directories.
+- Python Models: Explore the initial Python models provided in the SalesforceBot.ipynb notebook.
+- Final Code Generation: Access the complete final code generation zip file named "Team Sigma" in the master branch.
+- Education Website: Find the Codeastra Education website in the master branch as Codastra-EduWeb.zip.
 # Usage
-# OpenAI Integration: Provide text descriptions to generate code snippets or Lambda functions.
-# Frontend/Backend: Use the MERN stack frontend and backend to interact with the code generation system.
-# Python Models: Experiment with the provided Python models for code generation tasks.
-# Code Generation Zip: Extract the "Team Sigma" zip file for complete code generation functionality.
-# Education Website: Explore the Codeastra Education website for additional resources.
+- OpenAI Integration: Provide text descriptions to generate code snippets or Lambda functions.
+- Frontend/Backend: Use the MERN stack frontend and backend to interact with the code generation system.
+- Python Models: Experiment with the provided Python models for code generation tasks.
+- Code Generation Zip: Extract the "Team Sigma" zip file for complete code generation functionality.
+- Education Website: Explore the Codeastra Education website for additional resources.
 # Contributors: 
-# [TEAM SIGMA]
-[PARAS PETHE]
-[MAKARAND TIGHARE]
-[SAHIL MOHURALE]
+- # [TEAM SIGMA]
+- [PARAS PETHE]
+- [MAKARAND TIGHARE]
+- [SAHIL MOHURALE]
 License
 [MIT]
 
-Support
+# Support
 For any issues or queries, please contact [paaras.pethe6277@gmail.com].
 
 Feel free to contribute to the project by forking it and creating pull requests!
 
-To run the frontend and backend, follow these steps:
+# To run the frontend and backend, follow these steps:
 
 1. Extract the contents of "Team Sigma" zip file.
 2. Navigate to the frontend directory.
